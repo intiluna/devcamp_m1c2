@@ -138,3 +138,29 @@
     background-color: #d6d6d6;
    
 }
+
+.flexEight {
+    display: flex;
+    width: 300px;
+    height: 400px;
+    background-color: #eeeeee;
+
+}
+
+.flexEight > .one{
+    display: flex;
+    align-items: center;
+   
+}
+
+.flexEight > .two{
+    display: flex;
+    align-items: flex-end;
+   
+}
+
+.flexEight > .three{
+    display: flex;
+    align-items: flex-start;
+   
+}
