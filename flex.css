@@ -42,3 +42,16 @@
     margin: 2px;
     
 }
+
+.flexFour {
+    display: flex;
+    width:350px;
+    flex-flow: wrap;
+ 
+}
+
+.flexFour > .square{
+    margin: 5px;
+    background-color: #3d8b6d;
+    
+}
