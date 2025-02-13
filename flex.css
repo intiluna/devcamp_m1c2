@@ -99,3 +99,42 @@
     justify-content: space-evenly;
        
 }
+
+.flexSeven {
+    display: flex;
+    width: 500px;
+    height: 400px;
+    justify-content: space-between;
+    background-color: #f1f1f1;
+
+}
+
+.flexSeven > .one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+   
+}
+
+.flexSeven > .two{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: #d6d6d6;
+   
+}
+
+.flexSeven > .three{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+   
+}
+.flexSeven > .four{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #d6d6d6;
+   
+}
