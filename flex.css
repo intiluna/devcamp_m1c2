@@ -164,3 +164,24 @@
     align-items: flex-start;
    
 }
+
+.flexNine {
+    display: flex;
+    width: 450px;
+    height: 250px;
+    background-color: #eeeeee;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    
+
+}
+
+
+#special {
+    
+    background-color: #3d4f8b;
+    align-self: flex-end;
+
+}
+
+/*Importante recordar: align-self se aplica al elemento individual, mientras que align-items se aplica a todos los elementos desde el contenedor*/
