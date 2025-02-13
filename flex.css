@@ -55,3 +55,20 @@
     background-color: #3d8b6d;
     
 }
+/*ejercicio flexbox 5*/
+
+.flexFive {
+    display: flex;
+    width: 350px;
+}
+.flexFive > .item{
+    background-color: #0b6643;
+    width: 100px;
+    height: 100px;
+    margin: 2px;   
+}
+
+.flexFive > #grow{
+    flex-grow: 2;
+}
+
