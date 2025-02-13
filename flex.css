@@ -31,3 +31,14 @@
     
 }
 
+.flexThree {
+    display: flex;
+    justify-content: flex-end; /* para que aparezca al inicio*/
+    flex-direction: row-reverse;
+ 
+}
+
+.flexThree > .square{
+    margin: 2px;
+    
+}
