@@ -72,3 +72,30 @@
     flex-grow: 2;
 }
 
+.flexSix {
+    display: flex;
+    width: 500px;
+    height: 400px;
+    background-color: #f1f1f1;
+    flex-direction: column;
+}
+
+.flexSix > .one{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.flexSix > .two{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d6d6d6;
+    margin: 50px 0;
+   
+}
+
+.flexSix > .three{
+    display: flex;
+    justify-content: space-evenly;
+       
+}
