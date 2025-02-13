@@ -3,15 +3,13 @@ Module 1- Checkpoint 2
 
 Este repositorio contiene:
 
+Código:
+- flex.css
+- flex.html
 
-├── flex.css
-├── flex.html
-├── LICENSE
-├── preguntas
-│   └── Preguntas_checkpoint2.pdf
-├── README.md
-└── tareas
-    ├── M1C2 Flexbox Assignment.pdf
-    └── M1C2 UI_UX Assignment.pdf
+Preguntas
+- Preguntas_checkpoint2.pdf
 
-2 directories, 7 files
+Tareas
+- M1C2 Flexbox Assignment.pdf
+- M1C2 UI_UX Assignment.pdf
